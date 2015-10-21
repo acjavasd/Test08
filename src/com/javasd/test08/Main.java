@@ -5,6 +5,6 @@ package com.javasd.test08;
  */
 public class Main {
     public static void main(String[] args) {
-        sout("Zero Eight");
+        System.out.println("Zero Eight");
     }
 }
